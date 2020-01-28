@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="list_league" type="id" />
+    <item name="search_event" type="id" />
+    <item name="table_name" type="id" />
+    <item name="table_played" type="id" />
+    <item name="table_win" type="id" />
+    <item name="table_draw" type="id" />
+    <item name="table_loss" type="id" />
+    <item name="table_total" type="id" />
+</resources>
